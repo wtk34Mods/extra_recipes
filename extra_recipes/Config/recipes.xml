@@ -1,0 +1,32 @@
+<wtk34Mods>
+
+<append xpath="/recipes">
+	<recipe name="resourceFeather" count="1" craft_time="30">
+		<ingredient name="resourceScrapPolymers" count="3"/>
+	</recipe>
+	
+	<recipe name="resourceFeather" count="1" craft_time="30">
+		<ingredient name="resourcePaper" count="3"/>
+	</recipe>
+	
+	<!-- this is the writeable storage box, so it can be crafted directly -->
+	<recipe name="cntStorageGenericSigned" count="1" craft_time="30"> -->
+		<ingredient name="resourceWood" count="10"/>
+		<ingredient name="resourceNail" count="5"/>
+	</recipe>
+	
+	<!-- some added recipes to the forge -->
+	
+	<recipe name="resourceSpring" count="1" craft_area="forge" craft_time="100">
+		<ingredient name="unit_iron" count="10"/>
+		<ingredient name="unit_clay" count="5"/>
+	</recipe>
+	
+	<recipe name="toolBeaker" count="1" craft_area="forge" craft_time="130">
+		<ingredient name="unit_clay" count="20"/>
+		<ingredient name="unit_glass" count="10"/>
+		<ingredient name="unit_lead" count="30"/>
+	</recipes>
+
+</append>
+</wtk34Mods>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="extra_recipes"/>
+		<Description value="Adds extra recipes to the game for normally uncraftable items."/>
+		<Author value="wtk34"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>

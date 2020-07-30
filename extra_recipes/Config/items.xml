@@ -1,0 +1,16 @@
+<wtk34mods>
+
+<!-- makes arrows glow -->
+<append xpath="/items/item[@name='ammoArrowSteelAP']">
+	<property value="#Entities/Zombies?Zombies/Materials/feral_radiated.mat" name="StickyMaterial"/>
+</append>
+
+<append xpath="//item[@name='ammoArrowStone']">
+	<property value="#Entities/Zombies?Zombies/Materials/feral_radiated.mat" name="StickyMaterial"/>
+</append>
+
+<append xpath="//item[@name='ammoArrowIron']">
+	<property value="#Entities/Zombies?Zombies/Materials/feral_radiated.mat" name="StickyMaterial"/>
+</append>
+
+</wtk34mods>
